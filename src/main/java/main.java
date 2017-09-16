@@ -7,6 +7,5 @@ public class main {
         System.out.println("345");
         System.out.println("main");
         System.out.println("bug");
-        System.out.println("this is my modify!");
     }
 }
