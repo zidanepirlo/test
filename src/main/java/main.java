@@ -8,5 +8,6 @@ public class main {
         System.out.println("main");
         System.out.println("bug");
         System.out.println("this is my commit!");
+        System.out.println("this is server commit!");
     }
 }
